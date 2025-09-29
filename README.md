@@ -1,4 +1,4 @@
-<img alt="my-stats" src="https://github-readme-stats.vercel.app/api?username=filipe1902&show_icons=true"
-  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe1902&layout=compact"/>
+<div align="center">
+  <img alt="my-stats" height="180em" src="https://github-readme-stats-eo7j.vercel.app/api?username=filipe1902&show_icons=true&theme=holi" />
+  <img alt="top-langs" height="180em" src="https://github-readme-stats-eo7j.vercel.app/api/top-langs/?username=filipe1902&layout=compact&theme=holi" />
+</div>
