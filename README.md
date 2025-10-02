@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
   ## Social and Contact
-  <a href="www.linkedin.com/in/filipe-marques-aa42a3352" target="_blank">
+  <a href="https://www.linkedin.com/in/filipe-marques-aa42a3352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
